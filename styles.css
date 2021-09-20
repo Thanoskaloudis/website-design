@@ -1,0 +1,128 @@
+
+html, body {
+    font-family: "Josefin Slab", serif;
+}
+
+html {
+    background: #f7f7f7;
+}
+
+#templateTitle {
+    width: 50%;
+    position: relative;
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#projectTitle {
+    font-size: 34px;
+    font-weight: 700;
+    color: #5e5d5d;
+}
+
+#projectDesc {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #707070;
+}
+
+.seperator {
+    width: 50%;
+    position: relative;
+    padding-top: 20px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+.sectionHeading {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.sectionTitle {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    color: #848484;
+}
+
+.sectionSeperator {
+    position: relative;
+    padding-top: 5px;
+    margin: 0 auto;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+ul#colors {
+    width: 50%;
+    position: relative;
+    padding-top: 30px;
+    margin: 0 auto;
+    margin-bottom: 75px;
+    text-align: center;
+    list-style: none;
+}
+
+li.colorCircle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.colorHex {
+    position: relative;
+    color: #535353;
+    top: 120px;
+    right: 6px;
+    font-weight: 400;
+}
+
+.color-1 {
+    background: #038F99;
+}
+
+.color-2 {
+    background: #24F0FF;
+}
+
+.color-3 {
+    background: #09D7E6;
+}
+
+.color-4 {
+    background: #993E00;
+}
+
+.color-5 {
+    background: #E66309;
+}
+
+#typography {
+    width: 50%;
+    position: relative;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-bottom: 75px;
+}
+
+#inlineElements {
+    width: 50%;
+    position: relative;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-bottom: 75px;
+}
+
+#formElements {
+    width: 50%;
+    position: relative;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-bottom: 75px;
+}
