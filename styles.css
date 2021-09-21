@@ -7,6 +7,26 @@ html {
     background: #f7f7f7;
 }
 
+input {
+    border-color: #6a66a8;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+textarea {
+    border-color: #6a66a8;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+select {
+    border-color: #6a66a8;
+    margin: 5px;
+    width: 180px;
+    border-radius: 5px;
+}
+
 #templateTitle {
     width: 50%;
     position: relative;
